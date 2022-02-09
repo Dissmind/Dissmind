@@ -1,4 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dissmind&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hey 👋, This is Alexey Khlopitskiy
+[![Gmail Badge](https://img.shields.io/badge/-dissmind@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dissmind@gmail.com)](mailto:dissmind@gmail.com) [![Github Badge](https://img.shields.io/badge/-dissmind-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dissmind/)](https://www.github.com/dissmind/) <p align='left'> You can view my resume <a href='https://career.habr.com/dissmind ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=dissmind alt=dissmind /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dissmind&show_icons=true&theme=radical)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dissmind&show_icons=true&include_all_commits=true)](https://github.com/dissmind/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dissmind&layout=compact)](https://github.com/dissmind/github-readme-stats)
 
